@@ -10,6 +10,9 @@ E por fora tenho estudado ReactJs, nodeJs e git.
   <img src="https://icons-for-free.com/iconfiles/png/512/command+develop+java+language+programming+software+icon-1320165727436849160.png" width="50px"/>
   <img src="https://user-images.githubusercontent.com/61751992/96060416-cfc24300-0e66-11eb-97d1-10f8907ea5fa.png" width="50px"/>
   <img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="50px"/>
+  <img src="https://icons-for-free.com/iconfiles/png/512/javascript+original-1324760550805182024.png" width="50px"/>
+  <img src="https://icons-for-free.com/iconfiles/png/512/html5+original+wordmark-1324760549222006872.png" width="50px"/>
+  <img src="https://icons-for-free.com/iconfiles/png/512/css3+original+wordmark-1324760527491191236.png" width="50px"/>
 </h1>
 
 ## Gostos
