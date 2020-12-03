@@ -24,3 +24,6 @@ E por fora tenho estudado ReactJs, nodeJs e git.
 </ul>
 
 ![Imagem](https://media.giphy.com/media/ZaueN0ipnurQlgKsRu/giphy.gif)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonJonsx&layout=default&theme=omni)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonJonsx&show_icons=true&theme=omni)
