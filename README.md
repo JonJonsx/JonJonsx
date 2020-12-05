@@ -1,9 +1,9 @@
 ### Hi, Meu nome é jonatan 👋
 
 ## Sobre mim
-Sou desenvolvedor FullStack, mas gosto muito mais do front-end.
+Sou desenvolvedor FullStack, mas gosto muito do front-end e de design de interface Learn UX/UI. Estou cursando Ciencia da computação na Faculdade Bandtec,
 Ultimamente tenho estudado Java, python 3.8 e Linguagem R pela faculdade.
-E por fora tenho estudado ReactJs, nodeJs e git.
+E por fora tenho estudado ReactJs, NodeJs e git.
 <h1>
   <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+git-1324451303814718117.png" width="50px"/>
   <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+python-1324451463772498768.png" width="50px"/>
@@ -16,18 +16,27 @@ E por fora tenho estudado ReactJs, nodeJs e git.
 </h1>
 
 ## Gostos
-<ul>
-  <li>Gosto de assistir animes :tv:</li>
-  <li>Jogar em consoles, ou computador :video_game: </li>
-  <li>Jogar basquete :basketball: </li>
-  <li>Desenvolver aplicações :computer:</li>
-</ul>
+<center>
+<table style="width:100%">
+  <tr>
+    <td>
+      <ul>
+        <li style="text-align: left">Gosto de assistir animes :tv:</li>
+        <li style="text-align: left">Jogar em consoles, ou computador :video_game: </li>
+        <li style="text-align: left">Jogar basquete :basketball: </li>
+        <li style="text-align: left">Desenvolver aplicações :computer:</li>
+      </ul>
+    </td>
+    <td><img src="https://media.giphy.com/media/ZaueN0ipnurQlgKsRu/giphy.gif"></td>
+  </tr>
+</table>
 
-![Imagem](https://media.giphy.com/media/ZaueN0ipnurQlgKsRu/giphy.gif)
+
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonJonsx&layout=compact&theme=omni"></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=JonJonsx&show_icons=true&theme=omni"</th> 
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonJonsx&layout=compact&theme=omni"></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=JonJonsx&show_icons=true&theme=omni"></td> 
   </tr>
 </table>
+</center>
