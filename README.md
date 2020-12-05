@@ -35,8 +35,8 @@ E por fora tenho estudado ReactJs, NodeJs e git.
 
 <table style="width:100%">
   <tr>
-    <td><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonJonsx&layout=compact&theme=omni"></td>
-    <td><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JonJonsx&show_icons=true&theme=omni"></td> 
+    <td width="50%"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonJonsx&layout=compact&theme=omni"></td>
+    <td width="50%"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=JonJonsx&show_icons=true&theme=omni"></td> 
   </tr>
 </table>
 
