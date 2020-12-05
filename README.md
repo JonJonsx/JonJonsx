@@ -4,16 +4,9 @@
 Sou desenvolvedor FullStack, mas gosto muito do front-end e de design de interface Learn UX/UI. Estou cursando Ciencia da computação na Faculdade Bandtec,
 Ultimamente tenho estudado Java, python 3.8 e Linguagem R pela faculdade.
 E por fora tenho estudado ReactJs, NodeJs e git.
-<h1>
-  <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+git-1324451303814718117.png" width="50px"/>
-  <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+python-1324451463772498768.png" width="50px"/>
-  <img src="https://icons-for-free.com/iconfiles/png/512/command+develop+java+language+programming+software+icon-1320165727436849160.png" width="50px"/>
-  <img src="https://user-images.githubusercontent.com/61751992/96060416-cfc24300-0e66-11eb-97d1-10f8907ea5fa.png" width="50px"/>
-  <img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="50px"/>
-  <img src="https://icons-for-free.com/iconfiles/png/512/javascript+original-1324760550805182024.png" width="50px"/>
-  <img src="https://icons-for-free.com/iconfiles/png/512/html5+original+wordmark-1324760549222006872.png" width="50px"/>
-  <img src="https://icons-for-free.com/iconfiles/png/512/css3+original+wordmark-1324760527491191236.png" width="50px"/>
-</h1>
+
+## Meu Linkedin
+<a href="https://www.linkedin.com/in/jonatan-da-silva-souza-91b69a189/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="15px"><a>[ Linkedin](https://www.linkedin.com/in/jonatan-da-silva-souza-91b69a18)
 
 ## Gostos
 <center>
@@ -37,7 +30,5 @@ E por fora tenho estudado ReactJs, NodeJs e git.
 </center>
 
 
-<table style="width:100%">
-  
-</table>
+
 
