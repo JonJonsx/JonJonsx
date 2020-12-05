@@ -27,16 +27,17 @@ E por fora tenho estudado ReactJs, NodeJs e git.
           <li style="text-align: left">Desenvolver aplicações :computer:</li>
         </ul>
       </td>
-      <td width="50%"><img src="https://media.giphy.com/media/ZaueN0ipnurQlgKsRu/giphy.gif"></td>
+      <td width="50%"><img src="https://media.giphy.com/media/ZaueN0ipnurQlgKsRu/giphy.gif"></td> 
+    </tr>
+    <tr>
+      <td width="50%"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonJonsx&layout=compact&theme=omni"></td>
+      <td width="50%"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=JonJonsx&show_icons=true&theme=omni"></td> 
     </tr>
   </table>
 </center>
 
 
 <table style="width:100%">
-  <tr>
-    <td width="50%"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonJonsx&layout=compact&theme=omni"></td>
-    <td width="50%"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=JonJonsx&show_icons=true&theme=omni"></td> 
-  </tr>
+  
 </table>
 
