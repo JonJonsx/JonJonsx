@@ -17,7 +17,7 @@ E por fora tenho estudado ReactJs, NodeJs e git.
 
 ## Gostos
 <center>
-  <table style="width:100%">
+  <table style="width:100%" style="font-size:20px;">
     <tr>
       <td width="50%">
         <ul>
