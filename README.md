@@ -6,7 +6,7 @@ Ultimamente tenho estudado Java, python 3.8 e Linguagem R pela faculdade.
 E por fora tenho estudado ReactJs, NodeJs e git.
 
 ## Meu Linkedin
-<a href="https://www.linkedin.com/in/jonatan-da-silva-souza-91b69a189/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="15px"><a>[ Linkedin](https://www.linkedin.com/in/jonatan-da-silva-souza-91b69a18)
+<a href="https://www.linkedin.com/in/jonatan-da-silva-souza-91b69a189/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="15px"><a>[ in/jonatan-da-silva-souza-91b69a189](https://www.linkedin.com/in/jonatan-da-silva-souza-91b69a18)
 
 ## Gostos
 <center>
