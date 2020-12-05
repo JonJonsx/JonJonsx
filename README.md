@@ -17,26 +17,26 @@ E por fora tenho estudado ReactJs, NodeJs e git.
 
 ## Gostos
 <center>
-<table style="width:100%">
-  <tr>
-    <td>
-      <ul>
-        <li style="text-align: left">Gosto de assistir animes :tv:</li>
-        <li style="text-align: left">Jogar em consoles, ou computador :video_game: </li>
-        <li style="text-align: left">Jogar basquete :basketball: </li>
-        <li style="text-align: left">Desenvolver aplicações :computer:</li>
-      </ul>
-    </td>
-    <td><img src="https://media.giphy.com/media/ZaueN0ipnurQlgKsRu/giphy.gif"></td>
-  </tr>
-</table>
-
-
-
-<table style="width:100%">
-  <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonJonsx&layout=compact&theme=omni"></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=JonJonsx&show_icons=true&theme=omni"></td> 
-  </tr>
-</table>
+  <table style="width:100%">
+    <tr>
+      <td width="50%">
+        <ul>
+          <li style="text-align: left">Gosto de assistir animes :tv:</li>
+          <li style="text-align: left">Jogar em consoles, ou computador :video_game: </li>
+          <li style="text-align: left">Jogar basquete :basketball: </li>
+          <li style="text-align: left">Desenvolver aplicações :computer:</li>
+        </ul>
+      </td>
+      <td width="50%"><img src="https://media.giphy.com/media/ZaueN0ipnurQlgKsRu/giphy.gif"></td>
+    </tr>
+  </table>
 </center>
+
+
+<table style="width:100%">
+  <tr>
+    <td><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonJonsx&layout=compact&theme=omni"></td>
+    <td><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JonJonsx&show_icons=true&theme=omni"></td> 
+  </tr>
+</table>
+
