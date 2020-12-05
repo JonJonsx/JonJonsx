@@ -30,5 +30,5 @@ E por fora tenho estudado ReactJs, NodeJs e git.
 </center>
 
 
-
+![](https://komarev.com/ghpvc/?username=JonJonsx&color=blue&style=flat)
 
