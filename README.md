@@ -41,4 +41,3 @@ E por fora tenho estudado ReactJs, NodeJs e git.
 
 
 ![](https://komarev.com/ghpvc/?username=JonJonsx&color=blue&style=flat)
-
