@@ -12,9 +12,10 @@
 
 ### Hi, Meu nome é jonatan 👋
 ## Sobre mim
-Sou desenvolvedor FullStack, mas gosto muito do front-end e de design de interface Learn UX/UI. Estou cursando Ciencia da computação na Faculdade Bandtec,
-Ultimamente tenho estudado Java, python 3.8 e Linguagem R pela faculdade.
-E por fora tenho estudado ReactJs, NodeJs e git.
+Atualmente sou engenheiro de dados junior e trabalho com tecnologias como GCP, python, java, mongoDB, ansible e terraform. Estou cursando Ciencia da computação na Faculdade 
+SPTECH,
+Ultimamente tenho estudado Java, python e Linguagem R pela faculdade.
+E por fora tenho estudado mongoDB, python.
 
 ## Tecnologias mais utilizo
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
